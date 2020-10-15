@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "description": "sdf",
+    "title": "sdf",
+    "owner": "sdf"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "xsdf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "sdf"
+  }
+}
